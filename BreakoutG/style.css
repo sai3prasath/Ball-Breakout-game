@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#mycanvas {
+    position: absolute;
+    margin-right: 100px;
+    vertical-align: middle;
+    background: #ECE7E6;
+    margin: 0;
+}
+
+#score {
+    position: absolute;
+    float: right;
+    top: 0;
+    right: 0;
+}
